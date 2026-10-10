@@ -1,0 +1,7 @@
+SNOWBOUND Android project - landscape/predator build
+Version: 0.6.0 (versionCode 2)
+Orientation: landscape (Manifest + Activity)
+Game asset: app/src/main/assets/index.html (synced from current HTML game)
+Features: landscape HUD, tap-to-toggle run, wolves/snow leopards, predator attacks/health, hunter badges, collectible pelts, cabin trophy rack.
+Build: source project only; not a compiled APK. Build using Android Studio or GitHub Actions.
+Dependencies: JDK 17, Android SDK Platform 35, Build Tools 35.0.0, internet for Gradle and CDN.
